@@ -70,10 +70,13 @@ This ensures:
 ## Project Structure
 
 smart-ai-prompt-engineer-chatbot/
-│
+
 ├── chatbot.py        # Core LLM logic, prompts, and memory handling
+
 ├── gradio_app.py     # Gradio-based web interface
+
 ├── __pycache__/      # Python cache files
+
 └── README.md
 
 ## Tech Stack
